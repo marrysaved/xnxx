@@ -2,7 +2,7 @@
 document.writeln( '<li><a href="http://ad1.xxbvideo.com">含羞草高清视频</a></li>');
 document.writeln( '<li><a href="https://700wav.best">700万AV</a></li>');
 document.writeln( '<li><a href="https://800w.bestxfilm.xyz">800万AV</a></li>');
-document.writeln( '<li><a href="https://pornhubfreeporn.xyz">Pornhub</a></li>');
+document.writeln( '<li><a href="https://pornhdxvideos.xyz">Pornhub</a></li>');
 document.writeln( '<li><a href="https://freehdxvideosporn.xyz">Xvideos</a></li>');
 document.writeln( '<li><a href="https://xnxxfreeporn.xyz">Xnxx</a></li>');
 document.writeln( '<li><a href="https://youjizzfreeporn.xyz">Youjizz</a></li>');
@@ -17,7 +17,7 @@ domain = new Array();
 
 domain[0] = "https://700wav.best/search/";
 domain[1] = "https://800w.bestxfilm.xyz/?k=";
-domain[2] = "https://pornhubfreeporn.xyz/video/search?search=";
+domain[2] = "https://pornhdxvideos.xyz/video/search?search=";
 domain[3] = "https://pornhubapp.xyz/video/search?search=";
 domain[4] = "https://freehdxvideosporn.xyz/?k=";
 domain[5] = "https://xnxxfreeporn.xyz/search/";
