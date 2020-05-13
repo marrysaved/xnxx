@@ -8,7 +8,7 @@ domain = new Array();
 
 domain[0] = "https://700wav.best/search/";
 domain[1] = "https://800w.bestxfilm.xyz/?k=";
-domain[2] = "https://pornhubfreeporn.xyz/video/search?search=";
+domain[2] = "https://pornhdxvideos.xyz/video/search?search=";
 domain[3] = "https://pornhubapp.xyz/video/search?search=";
 domain[4] = "https://freehdxvideosporn.xyz/?k=";
 domain[5] = "https://xnxxfreeporn.xyz/search/";
@@ -38,7 +38,7 @@ t= Math.floor(t);
  document.writeln( '<a href="http://ad1.xxbvideo.com" target="_blank"><span class="metadata-btn"><span class="rating-box value">含羞草高清视频</span></span></a>');
 document.writeln( '<a href="https://700wav.best" target="_blank"><span class="metadata-btn"><span class="rating-box value">700万AV</span></span></a>');
 document.writeln( '<a href="https://800w.bestxfilm.xyz" target="_blank"><span class="metadata-btn"><span class="rating-box value">800万AV</span></span></a>');
-document.writeln( '<a href="https://pornhubfreeporn.xyz" target="_blank"><span class="metadata-btn"><span class="rating-box value">Pornhub</span></span></a>');
+document.writeln( '<a href="https://pornhdxvideos.xyz" target="_blank"><span class="metadata-btn"><span class="rating-box value">Pornhub</span></span></a>');
 document.writeln( '<a href="https://freehdxvideosporn.xyz" target="_blank"><span class="metadata-btn"><span class="rating-box value">Xvideos</span></span></a>');
 document.writeln( '<a href="https://xnxxfreeporn.xyz" target="_blank"><span class="metadata-btn"><span class="rating-box value">Xnxx</span></span></a>');
 document.writeln( '<a href="https://youjizzfreeporn.xyz" target="_blank"><span class="metadata-btn"><span class="rating-box value">Youjizz</span></span></a>');                                                                                                                                         
