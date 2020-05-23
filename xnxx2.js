@@ -72,4 +72,4 @@ var tags=new Array("性感","3P","约炮","口交","情趣","丝袜","巨乳","�
   
         }
 
-
+ document.writeln( '<a style="color:green">广告合作:marrysaved@gmail.com</a> ');
