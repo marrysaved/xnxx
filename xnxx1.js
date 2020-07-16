@@ -1,12 +1,12 @@
 
-document.writeln( '<li><a href="http://ad1.xxbvideo.com">含羞草高清视频</a></li>');
+document.writeln( '<li><a href="http://ad1.sexscenes.xyz">含羞草高清视频</a></li>');
 document.writeln( '<li><a href="https://700wav.best">700万AV</a></li>');
 document.writeln( '<li><a href="https://800w.bestxfilm.xyz">800万AV</a></li>');
 document.writeln( '<li><a href="https://pornhdxvideos.xyz">Pornhub</a></li>');
 document.writeln( '<li><a href="https://freehdxvideosporn.xyz">Xvideos</a></li>');
 document.writeln( '<li><a href="https://xnxxfreeporn.xyz">Xnxx</a></li>');
 document.writeln( '<li><a href="https://bestfreeporntube.xyz">Youjizz</a></li>');
-document.writeln( '<li><a href="https://xxbvideo.com">复仇者淫盟</a></li>');
+document.writeln( '<li><a href="https://sexscenes.xyz">复仇者淫盟</a></li>');
 document.writeln( '<li><a href="https://2048.www1024com.xyz">2048核基地</a></li>');
 document.writeln( '<li><a href="https://www1024com.xyz">1024核工厂</a></li>');
  
@@ -22,7 +22,7 @@ domain[3] = "https://pornhubapp.xyz/video/search?search=";
 domain[4] = "https://freehdxvideosporn.xyz/?k=";
 domain[5] = "https://xnxxfreeporn.xyz/search/";
 domain[6] = "https://bestfreeporntube.xyz/video/search?search=";
-domain[7] = "https://qqavjzy.xxbvideo.com/?k=";
+domain[7] = "https://qqavjzy.sexscenes.xyz/?k=";
 domain[8] = "https://best-xvideos-freeporn.com/?k=";
 domain[9] = "https://xvideoshub.best-xvideos-freeporn.com/video/search?search=";
 domain[10] = "https://cut1.bestxfilm.xyz/search/";
