@@ -11,7 +11,7 @@ domain[1] = "https://800w.bestxfilm.xyz/?k=";
 domain[2] = "https://pornhdxvideos.xyz/video/search?search=";
 domain[3] = "https://pornhubapp.xyz/video/search?search=";
 domain[4] = "https://freehdxvideosporn.xyz/?k=";
-domain[5] = "https://xnxxfreeporn.xyz/search/";
+domain[5] = "https://xnxx2.gq/search/";
 domain[6] = "https://bestfreeporntube.xyz/video/search?search=";
 domain[7] = "https://qqavjzy.sexscenes.xyz/?k=";
 domain[8] = "https://best-xvideos-freeporn.com/?k=";
@@ -37,10 +37,13 @@ t= Math.floor(t);
 
  document.writeln( '<a href="http://ad1.sexscenes.xyz" target="_blank"><span class="metadata-btn"><span class="rating-box value">含羞草高清视频</span></span></a>');
 document.writeln( '<a href="https://700wav.best" target="_blank"><span class="metadata-btn"><span class="rating-box value">700万AV</span></span></a>');
+
+ document.writeln( '<a href="https://3some.ml" target="_blank"><span class="metadata-btn"><span class="rating-box value">三人行</span></span></a>');
+document.writeln( '<a href="https://ph2020.xyz" target="_blank"><span class="metadata-btn"><span class="rating-box value">洋马视频</span></span></a>');
 document.writeln( '<a href="https://800w.bestxfilm.xyz" target="_blank"><span class="metadata-btn"><span class="rating-box value">800万AV</span></span></a>');
 document.writeln( '<a href="https://pornhdxvideos.xyz" target="_blank"><span class="metadata-btn"><span class="rating-box value">Pornhub</span></span></a>');
 document.writeln( '<a href="https://freehdxvideosporn.xyz" target="_blank"><span class="metadata-btn"><span class="rating-box value">Xvideos</span></span></a>');
-document.writeln( '<a href="https://xnxxfreeporn.xyz" target="_blank"><span class="metadata-btn"><span class="rating-box value">Xnxx</span></span></a>');
+document.writeln( '<a href="https://xnxx2.gq" target="_blank"><span class="metadata-btn"><span class="rating-box value">Xnxx</span></span></a>');
 document.writeln( '<a href="https://bestfreeporntube.xyz" target="_blank"><span class="metadata-btn"><span class="rating-box value">Youjizz</span></span></a>');                                                                                                                                         
  document.writeln( '<a href="https://sexscenes.xyz" target="_blank"><span class="metadata-btn"><span class="rating-box value">复仇者淫盟</span></span></a>');                                                                                                                                 
    domain1 = new Array();                                                                                                                               
